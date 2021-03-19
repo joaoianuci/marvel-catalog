@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="marvel-catalog" src="https://imgur.com/a/E2KbpGP" />
+    <img alt="marvel-catalog" src="https://i.imgur.com/chgP9s5.png" />
     <br>
     Next.js integration with SWR and Marvel API
 </h1>
@@ -14,7 +14,7 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/joaoianuci/marvel-catalog.svg">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/joaoianuci/marvel-catalog.svg">
-  <a href="https://github.com/joaoianuci/marvel-catalog/commits/master">
+  <a href="https://github.com/joaoianuci/marvel-catalog/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/joaoianuci/marvel-catalog.svg">
   </a>
 
@@ -33,6 +33,7 @@
   <a href="https://marvel-catalog.vercel.app">Test</a>
 </p>
 
+
 ## :bulb: Technologies
 
 This project was developed with the following technologies:
@@ -44,6 +45,12 @@ This project was developed with the following technologies:
 -   [SWR][swr]
 -   [Yarn][yarn]
 -   [VS Code][vc] with [ESLint][vceslint] and [EditorConfig][vceditconfig]
+
+## :memo: License
+
+This project is under the MIT license. See the [LICENSE](https://github.com/joaoianuci/marvel-catalog/blob/master/LICENSE) for more information.
+
+* * *
 
 Made with ♥ by João Vitor Ianuci :wave: [Get in touch!](https://www.linkedin.com/in/joaoianuci/)
 
